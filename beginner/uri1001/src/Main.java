@@ -1,3 +1,5 @@
+package beginner.uri1001.src;
+
 import java.util.Scanner;
 
 public class Main {
