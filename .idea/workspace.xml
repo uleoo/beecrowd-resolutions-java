@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9d6692-3d6a-413b-b4bc-650e67cbdd10" name="Changes" comment="newResolutions">
-      <change afterPath="$PROJECT_DIR$/beginner/uri1021/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beginner/uri1021/uri1021.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1035/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1035/uri1035.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1036/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1036/uri1036.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1037/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1037/uri1037.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,20 +58,20 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/My Projects/Beecrownd Resolutions/beginner/uri1021",
+    "last_opened_file_path": "C:/My Projects/Beecrownd Resolutions/beginner/uri1037",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1037" />
+      <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1036" />
+      <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1035" />
       <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1021" />
       <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1020" />
-      <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1019" />
-      <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1018" />
-      <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1017" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\My Projects\Beecrownd Resolutions\.idea" />
@@ -244,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721094855030</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="newResolutions">
+      <option name="closed" value="true" />
+      <created>1721097531056</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1721097531056</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
