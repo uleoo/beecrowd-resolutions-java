@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9d6692-3d6a-413b-b4bc-650e67cbdd10" name="Changes" comment="newResolutions">
-      <change afterPath="$PROJECT_DIR$/beginner/uri1019/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beginner/uri1019/uri1019.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beginner/uri1020/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beginner/uri1020/uri1020.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1021/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1021/uri1021.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +54,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/My Projects/Beecrownd Resolutions/beginner/uri1020",
+    "last_opened_file_path": "C:/My Projects/Beecrownd Resolutions/beginner/uri1021",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -65,11 +63,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1021" />
       <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1020" />
       <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1019" />
       <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1018" />
       <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1017" />
-      <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1016" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\My Projects\Beecrownd Resolutions\.idea" />
@@ -238,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721093273459</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="newResolutions">
+      <option name="closed" value="true" />
+      <created>1721094855030</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1721094855030</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
