@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9d6692-3d6a-413b-b4bc-650e67cbdd10" name="Changes" comment="newResolutions">
-      <change afterPath="$PROJECT_DIR$/beginner/uri1013/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beginner/uri1013/uri1013.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beginner/uri1014/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beginner/uri1014/uri1014.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1015/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1015/uri1015.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1016/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1016/uri1016.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1017/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1017/uri1017.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1018/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1018/uri1018.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +60,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/My Projects/Beecrownd Resolutions/beginner/uri1014",
+    "last_opened_file_path": "C:/My Projects/Beecrownd Resolutions/beginner/uri1018",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -65,11 +69,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1018" />
+      <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1017" />
+      <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1016" />
+      <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1015" />
       <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1014" />
-      <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1013" />
-      <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1012" />
-      <recent name="C:\My Projects\Beecrownd Resolutions\beginner" />
-      <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1011" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\My Projects\Beecrownd Resolutions\.idea" />
@@ -222,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721089955754</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="newResolutions">
+      <option name="closed" value="true" />
+      <created>1721090973641</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1721090973641</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
