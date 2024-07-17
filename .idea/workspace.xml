@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9d6692-3d6a-413b-b4bc-650e67cbdd10" name="Changes" comment="newResolutions">
-      <change afterPath="$PROJECT_DIR$/beginner/uri1035/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beginner/uri1035/uri1035.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beginner/uri1036/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beginner/uri1036/uri1036.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beginner/uri1037/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beginner/uri1037/uri1037.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1038/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1038/uri1038.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1040/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1040/uri1040.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1037/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1037/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,20 +58,20 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/My Projects/Beecrownd Resolutions/beginner/uri1037",
+    "last_opened_file_path": "C:/My Projects/Beecrownd Resolutions/beginner/uri1040",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1040" />
+      <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1038" />
       <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1037" />
       <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1036" />
       <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1035" />
-      <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1021" />
-      <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1020" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\My Projects\Beecrownd Resolutions\.idea" />
@@ -80,6 +80,9 @@
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\uleon\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="fb9d6692-3d6a-413b-b4bc-650e67cbdd10" name="Changes" comment="" />
@@ -256,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721097531056</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="newResolutions">
+      <option name="closed" value="true" />
+      <created>1721165230770</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1721165230771</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
