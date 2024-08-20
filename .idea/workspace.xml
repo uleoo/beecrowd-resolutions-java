@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9d6692-3d6a-413b-b4bc-650e67cbdd10" name="Changes" comment="newResolutions">
-      <change afterPath="$PROJECT_DIR$/beginner/uri1046/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beginner/uri1046/uri1046.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1047/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1047/uri1047.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +33,8 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:uleoo/beecrownd-resolutions-java.git&quot;,
-    &quot;accountId&quot;: &quot;5af237ba-ec98-46b4-bb0f-179b5d602c3a&quot;
+    &quot;url&quot;: &quot;https://github.com/uleoo/beecrowd-resolutions-java.git&quot;,
+    &quot;accountId&quot;: &quot;e14d10b9-8783-4d1c-a2ff-ba7f6d77b1fe&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -54,20 +54,20 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/My Projects/Beecrownd Resolutions/beginner/uri1046",
+    "last_opened_file_path": "C:/Users/uleon/IdeaProjects/beecrowd-resolutions-java/beginner/uri1047",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\uleon\IdeaProjects\beecrowd-resolutions-java\beginner\uri1047" />
       <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1046" />
       <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1045" />
       <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1042" />
       <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1041" />
-      <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1040" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\My Projects\Beecrownd Resolutions\.idea" />
