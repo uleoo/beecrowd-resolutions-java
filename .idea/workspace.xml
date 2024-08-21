@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9d6692-3d6a-413b-b4bc-650e67cbdd10" name="Changes" comment="newResolutions">
-      <change afterPath="$PROJECT_DIR$/beginner/uri1050/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beginner/uri1050/uri1050.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1051/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1051/uri1051.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beginner/uri1000/uri1000.iml" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1000/uri1000.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/uleon/IdeaProjects/beecrowd-resolutions-java/beginner/uri1050",
+    "last_opened_file_path": "C:/Users/uleon/IdeaProjects/beecrowd-resolutions-java/beginner/uri1051",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -64,11 +63,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\uleon\IdeaProjects\beecrowd-resolutions-java\beginner\uri1051" />
       <recent name="C:\Users\uleon\IdeaProjects\beecrowd-resolutions-java\beginner\uri1050" />
       <recent name="C:\Users\uleon\IdeaProjects\beecrowd-resolutions-java\beginner\uri1049" />
       <recent name="C:\Users\uleon\IdeaProjects\beecrowd-resolutions-java\beginner\uri1048" />
       <recent name="C:\Users\uleon\IdeaProjects\beecrowd-resolutions-java\beginner\uri1047" />
-      <recent name="C:\My Projects\Beecrownd Resolutions\beginner\uri1046" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\My Projects\Beecrownd Resolutions\.idea" />
@@ -312,7 +311,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724118615699</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="newResolutions">
+      <option name="closed" value="true" />
+      <created>1724201662136</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1724201662136</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
