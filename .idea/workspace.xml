@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9d6692-3d6a-413b-b4bc-650e67cbdd10" name="Changes" comment="newResolutions">
-      <change afterPath="$PROJECT_DIR$/beginner/uri1051/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beginner/uri1051/uri1051.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1052/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1052/uri1052.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1051/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1051/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +32,12 @@
     &quot;assignee&quot;: &quot;uleoo&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/uleoo/beecrowd-resolutions-java.git",
-    "accountId": "bff669f5-5013-47d3-a88d-9cae3e6af71e"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/uleoo/beecrowd-resolutions-java.git&quot;,
+    &quot;accountId&quot;: &quot;bff669f5-5013-47d3-a88d-9cae3e6af71e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -54,7 +55,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/uleon/IdeaProjects/beecrowd-resolutions-java/beginner/uri1051",
+    "last_opened_file_path": "C:/Users/uleon/IdeaProjects/beecrowd-resolutions-java/beginner/uri1052",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -63,11 +64,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\uleon\IdeaProjects\beecrowd-resolutions-java\beginner\uri1052" />
       <recent name="C:\Users\uleon\IdeaProjects\beecrowd-resolutions-java\beginner\uri1051" />
       <recent name="C:\Users\uleon\IdeaProjects\beecrowd-resolutions-java\beginner\uri1050" />
       <recent name="C:\Users\uleon\IdeaProjects\beecrowd-resolutions-java\beginner\uri1049" />
       <recent name="C:\Users\uleon\IdeaProjects\beecrowd-resolutions-java\beginner\uri1048" />
-      <recent name="C:\Users\uleon\IdeaProjects\beecrowd-resolutions-java\beginner\uri1047" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\My Projects\Beecrownd Resolutions\.idea" />
@@ -319,7 +320,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724201662136</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="newResolutions">
+      <option name="closed" value="true" />
+      <created>1724205355331</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1724205355331</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
