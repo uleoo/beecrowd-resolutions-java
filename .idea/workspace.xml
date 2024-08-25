@@ -5,10 +5,80 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9d6692-3d6a-413b-b4bc-650e67cbdd10" name="Changes" comment="newResolutions">
-      <change afterPath="$PROJECT_DIR$/beginner/uri1066/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beginner/uri1065/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1065/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beginner/uri1065/uri1065.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1000/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1000.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1000/uri1000.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1001/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1001/uri1001.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1002/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1002/uri1002.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1003/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1003/uri1003.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1004/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1004/uri1004.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1005/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1005.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1005/uri1005.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1006/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1006.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1006/uri1006.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1007/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1007.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1007/uri1007.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1008/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1008.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1008/uri1008.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1009/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1009.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1009/uri1009.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1010/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1010.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1010/uri1010.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1011/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1011.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1011/uri1011.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1012/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1012/uri1012.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1013/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1013.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1013/uri1013.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1014/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1014.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1014/uri1014.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1015/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1015.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1015/uri1015.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1016/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1016.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1016/uri1016.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1017/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1017.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1017/uri1017.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1018/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1018.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1018/uri1018.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1019/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1019.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1019/uri1019.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1020/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1020.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1020/uri1020.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1021/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1021.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1021/uri1021.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1035/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1035.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1035/uri1035.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1036/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1036.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1036/uri1036.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1037/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1037.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1037/uri1037.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1038/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1038.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1038/uri1038.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1040/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1040.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1040/uri1040.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1041/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1041.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1041/uri1041.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1042/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1042.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1042/uri1042.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1045/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1045.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1045/uri1045.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1046/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1046.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1046/uri1046.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1047/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1047.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1047/uri1047.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1048/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1048.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1048/uri1048.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1049/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1049.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1049/uri1049.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1050/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1050/src/uri1050.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1051/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1051/src/uei1051.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1052/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1052/src/uri1052.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1059/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1059/src/uri1059.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/uri1060/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/uri1060/src/uri1060.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -376,7 +446,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724609135244</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="newResolutions">
+      <option name="closed" value="true" />
+      <created>1724609591095</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1724609591095</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
