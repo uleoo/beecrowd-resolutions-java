@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9d6692-3d6a-413b-b4bc-650e67cbdd10" name="Changes" comment="Folder organization">
-      <change afterPath="$PROJECT_DIR$/beginner/uri1067.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beginner/uri1070.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1071.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +51,7 @@
     "Application.uri1067.executor": "Run",
     "Application.uri1068.executor": "Run",
     "Application.uri1070.executor": "Run",
+    "Application.uri1071.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -397,7 +397,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724610720000</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Folder organization">
+      <option name="closed" value="true" />
+      <created>1724611830404</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1724611830404</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
