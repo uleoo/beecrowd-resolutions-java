@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9d6692-3d6a-413b-b4bc-650e67cbdd10" name="Changes" comment="newResolutions">
-      <change afterPath="$PROJECT_DIR$/beginner/uri1061/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beginner/uri1061/uri1061.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1064/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/uri1064/uri1064.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +54,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/uleon/IdeaProjects/beecrowd-resolutions-java/beginner/uri1061",
+    "last_opened_file_path": "C:/Users/uleon/IdeaProjects/beecrowd-resolutions-java/beginner/uri1062",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -63,11 +63,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\uleon\IdeaProjects\beecrowd-resolutions-java\beginner\uri1062" />
       <recent name="C:\Users\uleon\IdeaProjects\beecrowd-resolutions-java\beginner\uri1061" />
       <recent name="C:\Users\uleon\IdeaProjects\beecrowd-resolutions-java\beginner\uri1060" />
       <recent name="C:\Users\uleon\IdeaProjects\beecrowd-resolutions-java\beginner\uri1059" />
       <recent name="C:\Users\uleon\IdeaProjects\beecrowd-resolutions-java\beginner\uri1059\src" />
-      <recent name="C:\Users\uleon\IdeaProjects\beecrowd-resolutions-java\beginner\uri1052" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\My Projects\Beecrownd Resolutions\.idea" />
@@ -351,7 +351,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724458876128</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="newResolutions">
+      <option name="closed" value="true" />
+      <created>1724606980404</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1724606980405</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
