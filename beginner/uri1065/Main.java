@@ -1,4 +1,4 @@
-package beginner.uri1065.src;
+package beginner.uri1065;
 import java.util.Scanner;
 
 public class Main {
