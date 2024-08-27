@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb9d6692-3d6a-413b-b4bc-650e67cbdd10" name="Changes" comment="Folder organization">
-      <change afterPath="$PROJECT_DIR$/beginner/uri1071.java" afterDir="false" />
+    <list default="true" id="fb9d6692-3d6a-413b-b4bc-650e67cbdd10" name="Changes" comment="NewResolution">
+      <change afterPath="$PROJECT_DIR$/beginner/uri1072.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,25 +45,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.uri1067.executor": "Run",
-    "Application.uri1068.executor": "Run",
-    "Application.uri1070.executor": "Run",
-    "Application.uri1071.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/uleon/IdeaProjects/beecrowd-resolutions-java/beginner/uri1066",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.uri1067.executor&quot;: &quot;Run&quot;,
+    &quot;Application.uri1068.executor&quot;: &quot;Run&quot;,
+    &quot;Application.uri1070.executor&quot;: &quot;Run&quot;,
+    &quot;Application.uri1071.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/uleon/IdeaProjects/beecrowd-resolutions-java/beginner/uri1066&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\uleon\IdeaProjects\beecrowd-resolutions-java\beginner\uri1066" />
@@ -405,7 +405,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724611830404</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Folder organization">
+      <option name="closed" value="true" />
+      <created>1724612843614</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1724612843614</updated>
+    </task>
+    <task id="LOCAL-00041" summary="NewResolution">
+      <option name="closed" value="true" />
+      <created>1724612866502</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1724612866502</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -437,6 +453,7 @@
     <MESSAGE value="newResolution" />
     <MESSAGE value="newResolutions" />
     <MESSAGE value="Folder organization" />
-    <option name="LAST_COMMIT_MESSAGE" value="Folder organization" />
+    <MESSAGE value="NewResolution" />
+    <option name="LAST_COMMIT_MESSAGE" value="NewResolution" />
   </component>
 </project>
